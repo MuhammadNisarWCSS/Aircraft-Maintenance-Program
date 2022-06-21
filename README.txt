@@ -1,6 +1,9 @@
 
 Author : Muhammad Nisar 
 
+C++ Code that inspects and replaces faulty aircraft parts.
+At the moment, this program is only supported on linux.
+
 Files :
         Aircraft.h Aircraft.cc (Handles the Aircraft class)
         Airline.h Airline.cc (Handles the Airline class)
